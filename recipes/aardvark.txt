@@ -1,11 +1,6 @@
 Dee's Pork Sinigang (Tamarind Soup)
 -----------------------------------
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 58f2fcaf0176083368cb40d7e771384b505d300f
-
 Servings: 6
 
 Ingredients:
@@ -14,6 +9,8 @@ Ingredients:
 1 large onion, sliced
 2 pieces medium sized tomato, quartered
 1 pack sinigang mix
+1 bunch string beans
+
 
 Directions:
 1. Heat the pot
@@ -28,14 +25,3 @@ Directions:
 10. Serve hot. Share and enjoy!
 
 Time: 1 hour 30 minutes
-
-
-
-
-<<<<<<< HEAD
-
-=======
-
-
-
->>>>>>> 58f2fcaf0176083368cb40d7e771384b505d300f
